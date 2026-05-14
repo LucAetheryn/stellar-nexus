@@ -28,7 +28,7 @@
 local StellarSystem = {
     Name = "Stellar System | Fish It",
     Version = "1.0.0 [BETA]",
-    Owner = "Lucky Praditya",
+    Owner = "Luc Aetheryn",
     Status = "Undetected",
     LastUpdate = "May 14, 2026"
 }
